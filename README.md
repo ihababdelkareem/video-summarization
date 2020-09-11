@@ -1,0 +1,4 @@
+# video-summarization
+
+pip install -r requirements.txt
+python src/main.py test.mp4
