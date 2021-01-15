@@ -5,9 +5,6 @@ In this project, we approach video summarization as a keyframe extraction proces
 ### Keyframe Extraction
 ![KF Extraction](keyframe%20extraction.png)
 
-### Application
-![Application](complete%20application.png)
-
 ### Usage
 ```sh
 $ pip install -r requirements.txt
